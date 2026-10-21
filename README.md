@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Ziad Ahmed 👋
 
-<!--
-**Ziad-0101/Ziad-0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+* 🎓 Computer Science Student
+* 🚀 Backend Developer focused on **.NET Stack**
+* 💡 Building scalable Web APIs, clean architecture, and relational database designs
+* 🎓 Enrolled in Digital Egypt Pioneers Initiative (DEPI) - .NET Track
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+* **Languages:** C#, SQL, JavaScript, HTML, CSS, Java, Python
+* **Backend Development:** ASP.NET Core Web API, Entity Framework Core, ADO.NET, LINQ
+* **Databases:** SQL Server
+* **Tools & OS:** Visual Studio, VS Code, Git & GitHub, Windows
+
+---
+
+### 📫 Connect with Me
+* 💼 [LinkedIn](https://www.linkedin.com/in/ziad-ahmed-850b8436b/?isSelfProfile=true)
